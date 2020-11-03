@@ -1,4 +1,4 @@
-# WMLDS Workshop Feb 11 2020
+# Neuronexus 2020
 
 This is the repo for the WMLDS workshop presented by Cybera. In these notebook we go over some basic NLP covering the following topics
 
