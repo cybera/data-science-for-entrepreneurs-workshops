@@ -1,6 +1,6 @@
 # Neuronexus 2020
 
-This is the repo for the WMLDS workshop presented by Cybera. In these notebook we go over some basic NLP covering the following topics
+This is the repo for the Data Science workshop presented by Cybera. In these notebook we go over some basic NLP covering the following topics
 
 1. Data collection(very basic twitter bot code)
 2. Data cleaning and processing  of some messy messy Twitter bot data
